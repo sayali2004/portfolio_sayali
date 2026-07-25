@@ -1,15 +1,5 @@
 {
   "name": "sayali-chougule-portfolio",
   "private": true,
-  "version": "1.0.0",
-  "type": "module",
-  "homepage": "https://sayali2004.github.io/portfolio",
-  "scripts": {
-    "dev": "vite --host 0.0.0.0 --port 3000",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "vite": "^5.0.0"
-  }
+  "version": "1.0.0"
 }
